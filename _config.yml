@@ -1,34 +1,34 @@
 
 #
-title:            'P2P Markets'
-description:      Discussion of the peer to peer lending markets and investment approaches
+title:            "P2P Markets"
+description:      "Discussion of the peer to peer lending markets and investment approaches"
 disqus_shortname: neohpstrtheme
 reading_time:     false
 words_per_minute: 200
-<<<<<<< HEAD
+
 logo:             /images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: https://mb389.github.io/port
-=======
+
 logo:             images/peer-to-peer-icon.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
  #url: ''
->>>>>>> master
+
 
 menu:
   - title: 'Home'
-    url: '/port/'
+    url: '/'
   - title: 'About'
-    url: '/port/about'
+    url: '/about'
   - title: 'Tags'
-    url: '/port/tags'
+    url: '/tags'
   - title: 'Categories'
-    url: '/port/categories'
+    url: '/categories'
     type: 'categories'
   - title: 'Favorites'
-    url: '/port/#'
+    url: '/#'
     submenu:
       - title: 'highlighter'
         url: '/port/code-highlighting-post/'
