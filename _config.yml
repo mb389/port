@@ -10,21 +10,21 @@ url: https://mb389.github.io/port
 
 menu:
   - title: 'Home'
-    url: '/'
+    url: '/port/'
   - title: 'About'
-    url: '/about'
+    url: '/port/about'
   - title: 'Tags'
-    url: '/tags'
+    url: '/port/tags'
   - title: 'Categories'
-    url: '/categories'
+    url: '/port/categories'
     type: 'categories'
   - title: 'Favorites'
-    url: '#'
+    url: '/port/#'
     submenu:
       - title: 'highlighter'
-        url: '/code-highlighting-post/'
+        url: '/port/code-highlighting-post/'
       - title: 'intro'
-        url: '/readability-post/'
+        url: '/port/readability-post/'
 
 # Owner/author information
 owner:
