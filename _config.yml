@@ -1,11 +1,11 @@
 
 #
-title:            'P2P Markets'
+title:            P2P Markets
 description:      Discussion of the peer to peer lending markets and investment approaches
 disqus_shortname: neohpstrtheme
 reading_time:     false
 words_per_minute: 200
-<<<<<<< HEAD
+
 logo:             /images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -15,7 +15,7 @@ logo:             images/peer-to-peer-icon.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
  #url: ''
->>>>>>> master
+
 
 menu:
   - title: 'Home'
