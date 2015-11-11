@@ -1,12 +1,21 @@
-title:            Blog Title
-description:      Describe your website here.
+
+#
+title:            'P2P Markets'
+description:      Discussion of the peer to peer lending markets and investment approaches
 disqus_shortname: neohpstrtheme
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
+<<<<<<< HEAD
 logo:             /images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: https://mb389.github.io/port
+=======
+logo:             images/peer-to-peer-icon.png
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+ #url: ''
+>>>>>>> master
 
 menu:
   - title: 'Home'
@@ -28,30 +37,30 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Michael Bushoy
+  site:           https://mb389.github.io
+  avatar:         images/linkedinpic.jpg
+  bio:            "I'm Mike and I’m a 30-year-old ex-Wall Street risk manager living in Brooklyn, NY. I’m a CFA charterholder and active stock & option investor with a passion for all things markets & investing."
+  email:          mb389@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin
-  facebook:
-  github: aron-bordin
+  twitter: mb389
+  facebook: michael.bushoy
+  github: mb389
   stackexchange:
   linkedin:
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  google_plus:    +mbushoy
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/mb389"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: "https://www.linkedin.com/in/michael-bushoy-cfa-60a9896"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: ""
 # Background image to be tiled on all pages
 background:
 
