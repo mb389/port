@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Portfolio Allocation
-date:   2015-10-27 13:02:47
+date:   2015-11-16 13:02:47
 categories: strategy
 ---
 
