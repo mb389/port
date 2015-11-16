@@ -7,7 +7,7 @@ categories: strategy
 
 ## How Much Do I Invest?
 
-As we strive to maintain a diversified portfolio of assets, the inevitable questions arises -- how much of my portfolio should be allocated to peer to peer loans. There are a few different ways to approach this question, but I believe the LendingRobot team's method, detailed in [this report](https://d2qh2u5m1l6y4n.cloudfront.net/media/other/howmuchtoinvest.pdf), is both easy to understand and sufficiently back by quantitative evidence.
+As we strive to maintain a diversified portfolio of assets, the inevitable questions arises -- how much of my portfolio should be allocated to peer to peer loans? There are a few different ways to approach this question, but I believe the LendingRobot team's method, detailed in [this report](https://d2qh2u5m1l6y4n.cloudfront.net/media/other/howmuchtoinvest.pdf), is both easy to understand and sufficiently back by quantitative evidence.
 
 While I recommend reading the LR report in it's entirety, I'll summarize below.
 
