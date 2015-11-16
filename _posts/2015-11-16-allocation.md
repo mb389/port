@@ -17,4 +17,4 @@ They go on to use the concepts of MPT (Modern Portfolio Theory), to evaluate the
 
 The final finding shows that the optimal return-to-risk ratios are achieved when between *12 and 14%* of the portfolio is comprised of P2P loans.
 
-![OP](/images/op.png "Optimum Portfolios")
+![OP](https://mb389.github.io/port/images/op.png "Optimum Portfolios")
